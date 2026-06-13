@@ -14,7 +14,9 @@ The project includes a full event-driven backtester with signal generation (EMA 
 
 ## Quick Demo
 
-Watch the [demo video](demo/demo.mp4) (via [Git LFS](https://git-lfs.com/)) for a walkthrough of the order book engine in action — adding orders, aggressive matching with price-time priority, and cancellation.
+![Order Book Engine Demo](demo/preview.gif)
+
+Watch the [demo video](demo/demo.mp4) for a walkthrough of the order book engine in action — adding orders, aggressive matching with price-time priority, and cancellation.
 
 
 Or run it yourself:
